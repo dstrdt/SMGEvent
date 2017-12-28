@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_weight="1"
+    android:orientation="vertical"
+    tools:context="com.rika.kalenderevent.MenuUtama">
+
+    <ImageView
+        android:background="#ffff"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:id="@+id/hiburan"
+        android:src="@drawable/music"
+        android:onClick="masuk1"/>
+
+    <TextView
+        android:id="@+id/text1"
+        android:background="#ffff"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:textAlignment="center"
+        android:text="Event Hiburan" />
+
+    <ImageView
+        android:id="@+id/sport"
+        android:background="#ffff"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:onClick="masuk2"
+        android:src="@drawable/run" />
+    <TextView
+        android:id="@+id/text2"
+        android:background="#ffff"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:textAlignment="center"
+        android:text="Event Olahraga" />
+
+</LinearLayout>

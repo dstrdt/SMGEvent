@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "383260536786",
+    "firebase_url": "https://eventsmg-bdbba.firebaseio.com",
+    "project_id": "eventsmg-bdbba",
+    "storage_bucket": "eventsmg-bdbba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383260536786:android:4ab0d98bf94f79c2",
+        "android_client_info": {
+          "package_name": "com.rika.kalenderevent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383260536786-l1coqp8n665p7dem5idsuom19e1bgff6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rika.kalenderevent",
+            "certificate_hash": "47db98c0059b3a504aa02b105d50f9ed8a8e51cf"
+          }
+        },
+        {
+          "client_id": "383260536786-7a8jrbgpptv4oq1h497aalkj0ais09pj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_psYTkN739piI0Vv2GxNUZS-H5G__3y0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "383260536786-7a8jrbgpptv4oq1h497aalkj0ais09pj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

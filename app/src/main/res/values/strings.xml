@@ -1,0 +1,115 @@
+<resources>
+    <string name="app_name">KalenderEvent</string>
+    <string name="informasi">Detail Event : </string>
+    <string name="fasilitas">Informasi Event : </string>
+    <string-array name="judul_event">
+        <item>Rumah Sakit Umum Kariadi</item>
+        <item>Rumah Sakit St Elisabeth</item>
+        <item>Rumah Sakit William Booth</item>
+        <item>Rumah Sakit Telogorejo</item>
+        <item>Rumah Sakit Roemani</item>
+        <item>Rumah Sakit Islam Sultan Agung</item>
+    </string-array>
+    <string-array name="keterangan_event">
+        <item>"MENJADI RUMAH SAKIT PENDIDIKAN DAN RUJUKAN NASIONAL YANG UNGGUL"</item>
+        <item>"MENJADI RUMAH SAKIT YANG MENGUTAMAKAN KESELAMATAN DAN TERPERCAYA SERTA MENJADI SARANA KEHADIRAN CINTA DAN KUASA ALLAH"</item>
+        <item>"Terciptanya suatu pelayanan kesehatan yang optimal untuk meningkatkan derajat kesehatan bagi setiap orang berdasarkan kasih tanpa diskriminasi"</item>
+        <item>"MENJADI RUMAH SAKIT PILIHAN UTAMA"</item>
+        <item>"Terwujudnya Rumah Sakit terkemuka berkualitas global dengan pelayanan prima yang dijiwai nilai-nilai islam, didukung oleh pendidikan dan aplikasi teknologi mutakhir"</item>
+        <item>"Rumah Sakit Islam terkemuka dalam pelayanan kesehatan yang selamat menyelamatkan, pelayanan pendidikan membangun generasi khaira ummah dan pengembangan peradaban Islam menuju masyarakat sehat sejahtera yang dirahmati Allah"</item>
+    </string-array>
+    <string-array name="detail_event">
+        <item>
+            1. Rawat Jalan\n
+            2. Rawat Inap\n
+            3. Rawat Intensif\n
+            4. Rawat Darurat\n
+            5. Unit Penyakit Jantung dan Pembuluh Darah\n
+            6. Unit Geriatri\n
+            7. Paviliun Garuda\n
+            8. Rehabilitasi Medik\n\n
+            FASILITAS PENUNJANG\n
+            1. Radiologi\n
+            2. Pusat Diagnostik Klinik\n
+            3. Laboratorium\n
+            4. Farmasi\n</item>
+        <item>
+            FASILITAS RAWAT JALAN\n
+            1. IGD (Instalasi gawat darurat)\n
+            2. Poliklinik Umum \n
+            3. Poli Spesialis \n
+            FASILITAS RAWAT INAP\n
+            1. Angela\n
+            2. Anna\n
+            3. Fransiskus\n
+            4. Lukas\n
+            5. Maria\n
+            6. Magdalena Daemen\n
+            7. Theresia\n
+            8. Vincentius\n
+            9. Xaverius\n
+            10. Yosep\n
+            FASILITAS PENDUKUNG\n
+            1. Area Olahraga\n
+            2. Askes Center\n
+            3. Food Courd\n
+            4. Taman Bermain\n
+            5. Catering Gizi\n
+            6. Customer Service\n
+            7. Parkir\n</item>
+        <item>
+            1. Pelayanan Medis\n
+            2. Pelayanan Penunjang\n
+            3. Medical Check Up\n
+            4. Dokter Umum\n
+            5. Dokter Gigi\n
+            6. Dokter Spesialis / Sub-Spesialis\n
+            7. Anak\n
+            8. Bedah\n
+            9. Kebidanan dan Kandungan\n
+            10. Penyakit Dalam\n
+            11. THT\n
+            12. Mata\n
+            13. Kulit dan Kelamin\n
+            14. Laboratorium Patologi Klinik\n
+            15. X-Ray\n
+            16. ECG\n
+            17. Echocardiografi\n
+            18. Laparoskopi\n
+            19. Konsultasi Gizi\n
+            20. Farmasi\n
+            21. Fasilitas\n
+            22. UGD 24 Jam\n
+            23. Rawat Jalan\n
+            24. Rawat Inap\n
+            25. Kamar Bedah\n</item>
+        <item>
+            1. Ambulance\n
+            2. Laboratorium\n
+            3. Radiologi\n
+            4. Rawat Inap\n
+            5. Rehabilitation\n
+            6. Ruang UGD\n
+            7. Convenient Store\n
+            8. Kafe / Kantin\n
+            9. Musholla\n
+            10. Parkir\n
+            11. Ruang Tunggu\n</item>
+        <item>
+            1. UGD 24 jam\n
+            2. Laboratorium Patologi Klinik\n
+            3. ICU\n
+            4. ICCU\n
+            5. Rawat Inap\n
+            6. Rawat Jalan\n
+            7. Farmasi\n
+            8. Hemodialisa\n
+            9. Kamar Bedah\n</item>
+        <item>
+            1. Laboratorium Klinik\n
+            2. Laboratorium Patology Anatomi\n
+            3. Mikrobiologi\n
+            4. Instalasi Farmasi\n
+            5. Instalasi Radiologi\n</item>
+    </string-array>
+</resources>
